@@ -1,0 +1,6 @@
+{
+  "name": "SmartCart — Premium Fashion Clothing",
+  "description": "SmartCart is a premium fashion clothing e-commerce web application crafted with the MERN stack, featuring editorial fashion aesthetics, MongoDB data models, JWT authentication, and interactive shopping features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
